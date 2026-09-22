@@ -24,5 +24,7 @@ public class Aula04Operadores {
         System.out.println("isDezIgualDez "+isDezIgualDez);
         System.out.println("isDezDiferenteDez "+isDezDiferenteDez);
 
+
+
     }
 }
