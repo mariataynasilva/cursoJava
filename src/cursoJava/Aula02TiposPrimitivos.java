@@ -5,7 +5,7 @@ public class Aula02TiposPrimitivos {
         // int, double , float, char, byte, short, long, boolean
 
          int idade =(int) 10000000000L; //isso aqui e um casting, ele vai fica cortando o numero, quando e numero grande
-        // nao da pra fazer isso, nao é bom fazer, e melhor muda a variavel.
+        // e pode muda a numeraçao por esta forçando a mudança de variavel, e melhor muda o tipo do que fazer isso.
          double salarioDouble = 2000.0D;
          // convençao de codigo
          float salarioFloat = 2500.0F;
