@@ -1,6 +1,6 @@
 package cursoJava;
 
-public class Aula05EstruturaCondicionais {
+public class Aula05EstruturaCondicionais01 {
     public static void main(String[] args) {
         // IF
         int idade = 15;
