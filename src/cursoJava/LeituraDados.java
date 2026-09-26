@@ -16,7 +16,7 @@ public class LeituraDados {
 
         scanner.close();
     }
-} ta bonitinho o codigo desse jeito ? a identaçao ta feia?
+}
 
 
 
